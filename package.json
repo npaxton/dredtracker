@@ -1,0 +1,25 @@
+{
+  "name": "dredtracker",
+  "version": "0.0.0",
+  "description": "Driver's Ed Trip Tracker",
+  "main": "web.js",
+  "dependencies": {
+    "express": "^4.6.1",
+    "logfmt": "^1.1.2",
+    "node-static": "^0.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npaxton/dredtracker.git"
+  },
+  "author": "npaxton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npaxton/dredtracker/issues"
+  },
+  "homepage": "https://github.com/npaxton/dredtracker"
+}
